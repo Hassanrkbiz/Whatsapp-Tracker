@@ -1,0 +1,1 @@
+chrome.runtime.onMessage.addListener(function(e,n){console.log("working"),console.log(e.msg),"online"==e.msg&&chrome.storage.sync.get(["user_name","Profilepic"],function(e){var n=e.user_name,o=(e.Profilepic,{type:"basic",iconUrl:"tracker128.png",title:n+" is Online",message:""});chrome.notifications.create("push_w_info_user",o)})});

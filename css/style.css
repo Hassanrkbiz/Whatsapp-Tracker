@@ -1,0 +1,118 @@
+.body{
+	width: 450px;
+	height: 400px;
+}
+.heading{
+	padding-top: 20px;
+	text-align: center;
+	font-weight: bolder;
+	padding-bottom: 1px;
+	font-size: 34px;
+	color: black;
+}
+.head_div{
+	background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(1,255,0,1) 0%, rgba(9,121,20,1) 55%);
+	border-width: 2px;
+	border-color: black;
+}
+#p_p{
+	margin-left: 175px;
+}
+#u_name{
+	text-align: center;
+	padding-top: 10px;
+}
+#u_status{
+	text-align: center;
+	padding-top: 10px;
+}
+#howto{
+	margin-left: 230px;
+}
+#fbgroup{
+	font-size: 16px;
+	font-weight: bolder;
+	margin-left: 140px;
+	text-decoration: underline;
+	color: green;
+}
+#ourwebsite{
+	font-size: 16px;
+	font-weight: bolder;
+	margin-left: 10px;
+	text-decoration: underline;
+	color: green;
+}
+.label{
+	font-weight: bolder;
+	font-size: 16px;
+}
+.input{
+	margin-left: 5px;
+	margin-right: 9px;
+}
+.lower-sec{
+	padding-top: 20px;
+    padding-bottom: 10px;
+}
+#left {
+  background: black;
+  position: fixed;
+    top: 0; bottom: 0;
+    width: 70px;
+    left: 0; 
+   }
+ .txtarea{
+ 	margin-left: 5px;
+ 	margin-right: 8px;
+ }
+.btn{
+   	margin-left: 1px;
+
+   }
+.btn1{
+   	width: 100px;
+   	text-align: center;
+   }
+.lbl{
+	margin: 7px;
+   	font-weight: bolder;
+   	font-size: 18px;
+   }
+.txta{
+	border:4px;
+	border-color: black;
+	margin:5px;
+}
+#email_count{
+	text-align: center;
+	font-weight: bolder;
+
+}
+.textsec{
+	padding-bottom: 70px;
+	padding-top: 35px;
+}
+#qandatbl{
+	width:400px;
+}
+.txt_div{
+	margin:7px;
+}
+#top, #bottom, #left, #right {
+  background: black;
+  position: fixed;
+  }
+  #left, #right {
+    top: 0; bottom: 0;
+    width: 10px;
+    }
+    #left { left: 0; }
+    #right { right: 0; }
+    
+  #top, #bottom {
+    left: 0; right: 0;
+    height: 10px;
+    }
+    #top { top: 0; }
+    #bottom { bottom: 0; }
