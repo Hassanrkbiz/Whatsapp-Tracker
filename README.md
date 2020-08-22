@@ -19,7 +19,7 @@ Track when a user gets online and offline on whatsapp
 
 2: Now get the key(you will get a url but you just have to copy the key. for example: you will get url: https://notify.run/c/f7KLZXjtD8WL3HPm and the key is f7KLZXjtD8WL3HPm).
 
-3: Copy the key and paste it in Notification Key Input Field.
+3: Copy the key and paste it in Notification Key Input Field in the Chrome Extension.
 
 4: Now to get notified on Android device first you have to open the url that you got after creating the channel on your android device. you will see a subscribed button just click on it and you are done.
 
